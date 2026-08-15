@@ -1,0 +1,10 @@
+# System files
+Thumbs.db
+Desktop.ini
+
+# Editor / temp files
+*.tmp
+*.log
+
+# PowerShell / run artifacts
+*.csv
